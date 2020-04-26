@@ -1,4 +1,6 @@
 # CNN-using-CIFAR10
+This is a part of CNN module of guvi.in, and the code is the same as used in their courses.
+
 A CNN model using CNN built from scratch, as well as using PyTorch's sequential and inbuilt modules, to build a image classifier on CIFAR 10 dataset. The model accuracy on CPU for 64 epochs was 
 Test acc: 53.21, Train acc: 87.58
 
